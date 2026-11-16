@@ -343,6 +343,7 @@ httpd.serve_forever()
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/8c5ae188-e7dc-4114-bdf6-93786502792f" />
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/331f88b8-1f4c-4b57-8509-d80983200aca" />
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/b9037acb-67c6-48e7-8639-23f2b7919160" />
+<img width="774" height="301" alt="Screenshot 2026-11-16 084041" src="https://github.com/user-attachments/assets/1cb70290-07de-4b1b-a89f-c9db7f25092d" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
